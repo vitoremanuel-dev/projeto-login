@@ -18,13 +18,13 @@
     }
 
     body{
-        background-image: linear-gradient(to top, #DBA10B, #5C4B20);
+        background-image: linear-gradient(to bottom, #E0B863, #be9024);
     }
 }
 
 @media screen and (min-width: 992px) {
     body{
-        background-image: linear-gradient(to top, #DBA10B, #5C4B20);
+        background-image: linear-gradient(to bottom, #E0B863, #be9024);
     }
     section#login{
         width: 950px;
